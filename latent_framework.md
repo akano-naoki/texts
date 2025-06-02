@@ -91,7 +91,7 @@ Story を持続させ、届かせるための補助構文として、軽視は�
   - 🛠 Tool : 道具
   - 🤌 Technique : 技法
 
-- 🥼 Science : 再現 (whoever)
+- 🥼 Science : 再現 (whoever/whenever)
   - 📏 Measurement : 測定
   - 📊 Verification : 検証
   - 🤔 Prediction : 予測

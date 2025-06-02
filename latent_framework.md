@@ -637,7 +637,7 @@ Project のなかで既に成立した Product（作品、言動、発信など�
 |------|----------------|----------|
 | **Project Manager**（企画・制作・総括） | 🌾 Economy / ⚔️ Force | Story の中身には深入りせず、それを維持・遂行する構造に責任を持つ。 |
 | **Product Owner / Creator / Director**（監督・製作・作家） | ✨ Art / 🥼 Science | 自身の語りの質に責任を持ち、Craft を通じて Story を実現する。 |
-| **Engineer / Technologist**（技術者） | 🧵 Craft（Tool / Technique） | 他者の語りを支える実装者。Story を構文化せずに実現する。 |
+| **Engineer / Technologist**（技術者・職人） | 🧵 Craft（Tool / Technique） | 他者の語りを支える実装者。Story を構文化せずに実現する。 |
 | **Artist**（芸術家・活動家） | 👏 Blues（+ ☝️ Logic / 🫱 Reframe） | 語らずに、時には大声で語る存在。語り手として生き様そのものが Story になることがある。 |
 | **Scientist**（科学者・アナリスト） | 🥼 Science（📊 Verification / 🤔 Prediction） | 個人的な語りよりも、再現性と普遍性のある構文を重視する。 |
 | **Customer / Reviewer**（消費者・観察者・批評家） | ☝️ Logic（観測された構造） | どの構文をどう受け取り、何を重視したかという選択そのものが、本人の Story を語ってしまう。受け手でありながら、構文化の鏡像でもある。 |

@@ -88,7 +88,7 @@ Story を持続させ、届かせるための補助構文として、軽視は�
 
 - 🧵 Craft : 製作 (how)
   - 🪵 Material : 素材
-  - 🛠 Tool : 道具
+  - 🎨 Design : 意匠
   - 🤌 Technique : 技法
 
 - 🥼 Science : 再現 (whoever / whenever)
@@ -304,11 +304,11 @@ Craftは以下の3要素から構成される。
 - 🪵 Material : 素材
   表現に使用される物質または情報的リソース。媒体の特性、制約条件を含む。
 
-- 🛠 Tool : 道具
-  表現を操作可能にする機器、装置、技術資産。デジタル・アナログの別を問わない。
+- 🎨 Design : 意匠
+  問いを形にする構文的判断。形式、配置、余白、見え方に関する選択と設計。
 
 - 🤌 Technique : 技法
-  実装の方法論。再現可能な作業手順、所作、訓練可能な習熟内容を含む。
+  実装の方法論。再現可能な作業手順、所作、道具、訓練可能な習熟内容を含む。
 
 Craft は、語りが「かたち」として存在するための条件を提供する。
 
@@ -636,8 +636,8 @@ Project のなかで既に成立した Product（作品、言動、発信など�
 | 立場 | 重視される構文 | コメント |
 |------|----------------|----------|
 | **Project Manager / Producer / Officer**（企画・制作・総括・配給） | 🌾 Economy / ⚔️ Force | Story の中身には深入りせず、それを維持・遂行する構造に責任を持つ。 |
-| **Product Owner / Creator / Director**（監督・製作・作家） | ✨ Art / 🥼 Science（📏 Measurement） | 自身の語りの質に責任を持ち、Craft を通じて他者に届く Story を設計・構成する。 |
-| **Engineer / Technologist**（技術者・職人） | 🧵 Craft（🤌Technique / 🛠Tool）/ 📊 Verification | 語り手ではないが、語りの精度に深く関与する。再現可能性と整合性を手技によって担保する存在。 |
+| **Product Owner / Creator / Director**（監督・製作・作家） | ✨ Art / 🥼 Science（特に 📏 Measurement） | 自身の語りの質に責任を持ち、Craft を通じて他者に届く Story を設計・構成する。 |
+| **Engineer / Technologist**（技術者・職人） | 🧵 Craft（🤌Technique / 🎨Design）/ 📊 Verification | 語り手ではないが、語りの精度に深く関与する。再現可能性と整合性を手技によって担保する存在。 |
 | **Artist / Activist**（芸術家・活動家） | 👏 Blues（+ 🫱 Reframe + ☝️ Logic） | 語らずに、時には大声で語る存在。語り手として生き様そのものが Story になることがある。 |
 | **Scientist / Analyst**（科学者・分析官） | ☝️ Logic / 🥼 Science（特に 🤔 Prediction） | 構文の再現と予測可能性に価値を置き、Story を汎用化・モデル化することで社会的意味を持たせようとする。 |
 | **Customer / Reviewer**（消費者・観察者・批評家） | ☝️ Logic（観測された構造） | どの構文をどう受け取り、何を重視したかという選択そのものが、本人の Story を語ってしまう。受け手でありながら、構文化の鏡像でもある。 |
@@ -646,7 +646,7 @@ Latent Framework を実際に用いる際には、目的に応じて「語るべ
 たとえば、VTS（Visual Thinking Strategy）のような場面では、以下のように 3〜4要素に限定することで、観察の焦点が定まり、対話が深まりやすくなる。
 
 - 「何が起きているか？」→ ☝️ Logic（+ 👏 Blues）  
-- 「それはどこからそう思ったのか？」→ 🧵 Craft  
+- 「それはどこからそう思ったのか？」→ 🎨 Design 
 - 「他に何かあるか？」→ 🫱 Reframe  
 
 また、生成AIとの対話においては、「どの立場から構文化してほしいか（例：Artist / Project Manager / Product Owner）」をプロンプト内で明示することで、  

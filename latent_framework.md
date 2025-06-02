@@ -637,9 +637,9 @@ Project のなかで既に成立した Product（作品、言動、発信など�
 |------|----------------|----------|
 | **Project Manager / Officer**（企画・制作・総括） | 🌾 Economy / ⚔️ Force | Story の中身には深入りせず、それを維持・遂行する構造に責任を持つ。 |
 | **Product Owner / Creator / Director**（監督・製作・作家） | ✨ Art / 🥼 Science（📏 Measurement） | 自身の語りの質に責任を持ち、Craft を通じて他者に届く Story を設計・構成する。 |
-| **Engineer / Technologist**（技術者・職人） | 🧵 Craft（🤌Technique / 🛠Tool） | 他者の語りを支える実装者。Story を構文化せずに実現する。 |
+| **Engineer / Technologist**（技術者・職人） | 🧵 Craft（🤌Technique / 🛠Tool）/ ☝️ Logic /📊 Verification | 語り手ではないが、語りの精度に深く関与する。再現可能性と整合性を手技によって担保する存在。 |
 | **Artist / Activist**（芸術家・活動家） | 👏 Blues（+ 🫱 Reframe + ☝️ Logic） | 語らずに、時には大声で語る存在。語り手として生き様そのものが Story になることがある。 |
-| **Scientist / Analyst**（科学者・分析官） | 🥼 Science（📊 Verification / 🤔 Prediction） | 個人的な語りよりも、再現性と普遍性のある構文を重視する。 |
+| **Scientist / Analyst**（科学者・分析官） | ☝️ Logic / 🥼 Science（特に 🤔 Prediction） | 構文の再現と予測可能性に価値を置き、Story を汎用化・モデル化することで社会的意味を持たせようとする。 |
 | **Customer / Reviewer**（消費者・観察者・批評家） | ☝️ Logic（観測された構造） | どの構文をどう受け取り、何を重視したかという選択そのものが、本人の Story を語ってしまう。受け手でありながら、構文化の鏡像でもある。 |
 
 Latent Framework を実際に用いる際には、目的に応じて「語るべき構文要素」だけに絞ったテンプレートを用意することが望ましい。  

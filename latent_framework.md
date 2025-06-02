@@ -67,7 +67,7 @@ Story を持続させ、届かせるための補助構文として、軽視は�
 以下、一覧で出力する。
 
 - ⛵ Project : 事業
-  - 📕 Story : 物語
+  - 📕 Story : 物語 ／ 💎 Product : 製品
     - ✨ Art : あらわれ (what)
       - ☝️ Logic : 構造
       - 🫱 Reframe : ずらし
@@ -97,7 +97,7 @@ Story を持続させ、届かせるための補助構文として、軽視は�
 
 これらの要素は既に他者が実行しているかもしくは自分の立ち上げようとしている Project が何かを解釈するための指標であり、このフレームワーク自体が、 Project の優劣を測定するものではない。
 
-## ✈️ Project の3要素 - Story, Economy, Force
+## ⛵ Project の3要素 - Story, Economy, Force
 
 今回は Project を構成する 3 要素の解説をする。
 

@@ -102,7 +102,7 @@ Story を持続させ、届かせるための補助構文として、軽視は�
 
 - 🛣️ Flow : 流通
   - 🚚 Logistics : 物流
-  - 📰 Information : 情報
+  - 🖥️ Information : 情報
   - 🔍 Recognition : 鑑定
 
 - 🪏 Labor : 労働
@@ -167,7 +167,7 @@ Economyは以下の3要素で構成される。
   - 🚚 Logistics（物流）:
     実体のある資源の移動。運送のほか、作品展示など。
 
-  - 📰 Information（情報）:
+  - 🖥️ Information（情報）:
     誰が何をやっているかを他者に伝えるための手段。業務連絡、告知、報告、ショールーム展示など。
 
   - 🔍 Recognition（鑑定）:

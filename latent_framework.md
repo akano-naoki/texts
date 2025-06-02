@@ -112,8 +112,8 @@ Story を持続させ、届かせるための補助構文として、軽視は�
 
 - 💰 Capital : 資本
   - 🏦 Loan : 融資
-  - 🪴 Sponsorship : 出資（パトロン）
-  - 📈 Investment : 投資（共同出資）
+  - 🪴 Sponsorship : 出資
+  - 📈 Investment : 投資
 
 #### ⚔️ Force : 強制
 

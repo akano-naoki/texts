@@ -69,34 +69,66 @@ Story を持続させ、届かせるための補助構文として、軽視は�
 
 以下、一覧で出力する。
 
-- ⛵ Project : 事業
-  - 📕 Story : 物語 （／ 💎 Product : 製品）
-    - ✨ Art : あらわれ (what)
-      - ☝️ Logic : 構造
-      - 🫱 Reframe : ずらし
-      - 👏 Blues : 衝動
-    - 🧵 Craft : 作り (how)
-      - 🪵 Material : 素材
-      - 🛠 Tool : 道具
-      - 🤌 Technique : 技法
-    - 🥼 Science : 汎化・汎用 (whoever)
-      - 📏 Measurement : 測定
-      - 📊 Verification : 検証
-      - 🤔 Prediction : 予測
-  - 🌾 Economy : 経済
-    - 🛣️ Flow : 流通
-      - 🚚物流／📰情報／🔍鑑定
-    - 🪏 Labor : 労働
-      - 🧤作業／🧪技能／🤖機構
-    - 💰 Capital : 資本
-      - 🏦融資／🪴出資／📈投資
-  - ⚔️ Force : 強制
-    - 📜 Contract : 制度・契約
-      - ⚖️法律／✍️契約／🪶慣習
-    - 🔗 Control : 統制・監視
-      - 🗝権限／📋規則／🪪資格
-    - 📣 Propaganda : 拡散・宣伝
-      - 🪧露出／✂️編集／🕳無視
+### ⛵ Project : 事業
+
+何を遺すか。
+
+#### 📕 Story : 物語（／ 💎 Product : 製品） 
+
+何を伝えたいか。
+
+- ✨ Art : あらわれ (what)
+  - ☝️ Logic : 構造
+  - 🫱 Reframe : ずらし
+  - 👏 Blues : 衝動
+
+- 🧵 Craft : 作り (how)
+  - 🪵 Material : 素材
+  - 🛠 Tool : 道具
+  - 🤌 Technique : 技法
+
+- 🥼 Science : 汎化・汎用 (whoever)
+  - 📏 Measurement : 測定
+  - 📊 Verification : 検証
+  - 🤔 Prediction : 予測
+
+#### 🌾 Economy : 経済　
+
+どう維持されるか。
+
+- 🛣️ Flow : 流通
+  - 🚚 Logistics : 物流
+  - 📰 Information : 情報
+  - 🔍 Recognition : 鑑定
+
+- 🪏 Labor : 労働
+  - 🧤 Task : 作業
+  - 🧪 Skill : 技能
+  - 🤖 Automation : 機構
+
+- 💰 Capital : 資本
+  - 🏦 Loan : 融資
+  - 🪴 Sponsorship : 出資（パトロン）
+  - 📈 Investment : 投資（共同出資）
+
+#### ⚔️ Force : 強制
+
+どう守るか。
+
+- 📜 Contract : 制度・契約
+  - ⚖️ Law : 法律
+  - ✍️ Agreement : 契約
+  - 🪶 Custom : 慣習
+
+- 🔗 Control : 統制・監視
+  - 🗝 Authority : 権限
+  - 📋 Policy : 規則
+  - 🪪 Credential : 資格
+
+- 📣 Propaganda : 拡散・宣伝
+  - 🪧 Exposure : 露出
+  - ✂️ Curation : 編集
+  - 🕳 Omission : 無視
 
 これらの要素は既に他者が実行しているかもしくは自分の立ち上げようとしている Project が何かを解釈するための指標であり、このフレームワーク自体が、 Project の優劣を測定するものではない。
 

@@ -1,8 +1,8 @@
 # Latent Framework ver 1.0
 
-## Latent Framework とは
+## 🧭 Latent Framework とは
 
-🧭 Latent Framework（潜在化された構文分析）は、他者が介在する人間の活動（事業:Project）に対し、
+Latent Framework（潜在化された構文分析）は、他者が介在する人間の活動（事業:Project）に対し、
 それを支えている構文を分析、理解、検討する際の補助に用いるフレームワークである。
 
 特に芸術作品の鑑賞や作成の際に思考の補助として用いられることを想定している。

@@ -100,7 +100,7 @@ Story を持続させ、届かせるための補助構文として、軽視は�
 
 どう維持されるか。
 
-- 🛣️ Flow : 流通
+- 📦 Flow : 流通
   - 🚚 Logistics : 物流
   - 🖥️ Information : 情報
   - 🔍 Recognition : 鑑定
@@ -161,7 +161,7 @@ Economy（経済）は、Project を継続的に運用するために必要な�
 
 Economyは以下の3要素で構成される。
 
-- 🛣️ Flow（流通）:
+- 📦 Flow（流通）:
   物理的・情報的・認知的価値の移動に関する要素。
 
   - 🚚 Logistics（物流）:

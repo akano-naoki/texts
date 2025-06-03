@@ -88,7 +88,67 @@ Story を持続させ、届かせるための補助構文として、軽視は�
 
 - 🧵 Craft : 造作 (how)
   - 🪵 Material : 素材
-  - 📐 Design : 意匠
+  - 📐 Design : ### ⛵ Project : 事業
+
+何を遺すか。
+
+#### 📕 Story : 物語（／ 💎 Product : 製品） 
+
+何を伝えたいか。
+
+- ✨ Art : 表現 (what)
+  - ☝️ Logic : 構造
+  - 🫱 Reframe : 転調
+  - 👏 Blues : 衝動
+
+- 🧵 Craft : 造作 (how)
+  - 🪵 Material : 素材
+  - 📐 Design : 設計
+  - 🤌 Technique : 技法
+
+- 🥼 Science : 再現 (whoever / whenever)
+  - 📏 Measurement : 測定
+  - 📊 Verification : 検証
+  - 🤔 Prediction : 予測
+
+#### 🌾 Economy : 経済　
+
+どう維持されるか。
+
+- 📦 Flow : 流通
+  - 🚚 Logistics : 物流
+  - 🖥️ Information : 情報
+  - 🔍 Recognition : 鑑定
+
+- 🪏 Labor : 労働
+  - 🧤 Task : 作業
+  - 🧪 Skill : 技能
+  - ⚙️ Automation : 機構
+
+- 💰 Capital : 資本
+  - 🏦 Loan : 融資
+  - 🪴 Sponsorship : 出資
+  - 📈 Investment : 投資
+
+#### ⚔️ Force : 強制
+
+どう守るか。
+
+- 🪦 Norm : 規範
+  - ⚖️ Law : 法律
+  - ✍️ Contract : 契約
+  - 🙏 Custom : 慣習
+
+- 🔗 Control : 統制
+  - 🗝 Authority : 権限
+  - 🛡️ Policy : 規則
+  - 🪪 Credential : 資格
+
+- 📣 Propaganda : 宣伝
+  - 🪧 Exposure : 露出
+  - ✂️ Curation : 編集
+  - 🕳 Omission : 無視
+
   - 🤌 Technique : 技法
 
 - 🥼 Science : 再現 (whoever / whenever)
@@ -304,7 +364,7 @@ Craftは以下の3要素から構成される。
 - 🪵 Material : 素材
   表現に使用される物質または情報的リソース。媒体の特性、制約条件を含む。
 
-- 📐 Design : 意匠
+- 📐 Design : 設計
   問いを形にする構文的判断。形式、配置、余白、見え方に関する選択と設計。
 
 - 🤌 Technique : 技法
@@ -519,6 +579,7 @@ Latent Framework は、構文的に Project を記述・観察・比較するた
 
 | 立場 | 重視される構文 | コメント |
 |------|----------------|----------|
+| **President / Professor / Owner**（責任者） | ⛵ Project | Story を届けることに責任を持ち、他者から構文化されることを許容する・ |
 | **Project Manager / Producer / Officer**（企画・制作・総括・配給） | 🌾 Economy / ⚔️ Force | Story の中身には深入りせず、それを維持・遂行する構造に責任を持つ。 |
 | **Product Owner / Creator / Director**（監督・製作・作家） | ✨ Art（全て） / 🥼 Science（特に 📏 Measurement） | 自身の語りの質に責任を持ち、Craft を通じて他者に届く Story を設計・構成する。 |
 | **Engineer / Technologist**（技術者・職人） | 🧵 Craft（🤌Technique / 📐Design）/ 📊 Verification | 語り手ではないが、語りの精度に深く関与する。再現可能性と整合性を手技によって担保する存在。 |

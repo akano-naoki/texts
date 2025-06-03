@@ -528,7 +528,7 @@ Latent Framework は、構文的に Project を記述・観察・比較するた
 | **Project Manager / Producer / Officer**（企画・制作・総括・配給） | 🌾 Economy / ⚔️ Force | Story の中身には深入りせず、それを維持・遂行する構造に責任を持つ。 |
 | **Product Owner / Creator / Director**（監督・製作・作家） | ✨ Art（全て） / 🥼 Science（特に 📏 Measurement） | 自身の語りの質に責任を持ち、Craft を通じて他者に届く Story を設計・構成する。 |
 | **Engineer / Technologist**（技術者・職人） | 🧵 Craft（🤌Technique / 📐Design）/ 📊 Verification | 語り手ではないが、語りの精度に深く関与する。再現可能性と整合性を手技によって担保する存在。 |
-| **Artist / Activist**（芸術家・活動家） | 👏 Blues / 🫱 Reframe / 📣 Propaganda | 語らずに、時には大声で語る存在。語り手として生き様そのものが Story になることがある。 |
+| **Artist / Activist**（芸術家・活動家） | 👏 Blues / 🫱 Reframe / 📣 Propaganda | 語らずに、時には大声で語る存在。生き様そのものが Story になることもあるが、それが Project として構成されるかどうかは別の話である。 |
 | **Scientist / Analyst**（科学者・分析官） | ☝️ Logic / 🥼 Science（特に 🤔 Prediction） | 構文の再現と予測可能性に価値を置き、Story を汎用化・モデル化することで社会的意味を持たせようとする。 |
 | **Customer / Reviewer**（消費者・観察者・批評家） | ☝️ Logic（観測された構造） | どの構文をどう受け取り、何を重視したかという選択そのものが、本人の Story を語ってしまう。受け手でありながら、構文化の鏡像でもある。 |
 | **Facilitator / Educator / Translator**（支援者・解釈者） | 📐 Design / ✂️ Curation / 🫱 Reframe | 自身の語りよりも、他者のStoryを整え・渡し直すことに責任を持つ役割。語りの通訳・再構成の担い手。教育・編集・翻訳など。 |

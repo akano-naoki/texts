@@ -101,7 +101,7 @@ Story を持続させ、届かせるための補助構文として、軽視は�
   - 🫱 Reframe : 転調
   - 👏 Blues : 衝動
 
-- 🧵 Craft : 造作 (how)
+- 🧵 Craft : 構築 (how)
   - 🪵 Material : 素材
   - 📐 Design : 設計
   - 🤌 Technique : 技法
@@ -205,7 +205,7 @@ Story は、Project の存在理由および構造的動機を説明する要素
 
 - ✨ Art（表現）:
   物語の中核を担う。主観的動機、構造的設計、問題提起、批評性などを含む。
-- 🧵 Craft（造作）:
+- 🧵 Craft（構築）:
   物語を形にする手段に関する要素。素材、道具、技術、手順などによって実装される。
 - 🥼 Science（再現）:
   物語の汎用性と再現性を担保する要素。測定、検証、予測といった観察可能な枠組みを含む。
@@ -579,7 +579,7 @@ Latent Framework は、構文的に Project を記述・観察・比較するた
 
 | 立場 | 重視される構文 | コメント |
 |------|----------------|----------|
-| **President / Professor / Owner**（責任者） | ⛵ Project | Story を届けることに責任を持ち、他者から構文化されることを許容する・ |
+| **President / Professor / Owner**（代表） | ⛵ Project | Project の語りを象徴する立場。他者から構文化されることを許容する。Story の成立と受容の中心。 |
 | **Project Manager / Producer / Officer**（企画・制作・総括・配給） | 🌾 Economy / ⚔️ Force | Story の中身には深入りせず、それを維持・遂行する構造に責任を持つ。 |
 | **Product Owner / Creator / Director**（監督・製作・作家） | ✨ Art（全て） / 🥼 Science（特に 📏 Measurement） | 自身の語りの質に責任を持ち、Craft を通じて他者に届く Story を設計・構成する。 |
 | **Engineer / Technologist**（技術者・職人） | 🧵 Craft（🤌Technique / 📐Design）/ 📊 Verification | 語り手ではないが、語りの精度に深く関与する。再現可能性と整合性を手技によって担保する存在。 |

@@ -519,7 +519,7 @@ Latent Framework は、構文的に Project を記述・観察・比較するた
 | 立場 | 重視される構文 | コメント |
 |------|----------------|----------|
 | **President / Professor / Chief Director / Owner / Pope / Emperor**（代表・総監督・象徴） | ⛵ Project | Project の語りを象徴する立場。他者から構文化されることを許容する。Story の成立と受容の中心。他者にとっての参照点になるため、「自ら語らずともStoryが形成される存在」とも言える。 |
-| **Project Manager / Producer / Officer / Gallerist**（企画・制作・総括・配給） | 🌾 Economy / ⚔️ Force | 他者の語りに深入りせず、それを成立・維持・流通させるための構造と制度に責任を持つ。Project の外部接続と継続性の担保。 |
+| **Manager / Producer / Officer / Gallerist**（企画・制作・総括・配給） | 🌾 Economy / ⚔️ Force | 他者の語りに深入りせず、それを成立・維持・流通させるための構造と制度に責任を持つ。Project の外部接続と継続性の担保。 |
 | **Creator / Director / Painter, Novelist etc**（監督・製作・作家） | ✨ Art / 📏 Measurement | 自らの語りに責任を持ち、Craft を通じて他者に届く Story を設計し、かたちにする。|
 | **Engineer / Technologist**（技術者・職人） | 🧵 Craft / 📊 Verification | 語り手ではないが、語りの精度に深く関与する。再現可能性と整合性を手技によって担保する存在。 |
 | **Artist / Activist**（芸術家・活動家） | 👏 Blues / 📣 Propaganda / 🫱 Reframe | 語らずに、時には大声で語る存在。Story は存在するが、それを Project として他者に渡す構文を持たない場合も多い。 |

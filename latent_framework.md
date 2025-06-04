@@ -531,7 +531,7 @@ Latent Framework は、構文的に Project を記述・観察・比較するた
 | **Artist / Activist**（芸術家・活動家） | 👏 Blues / 🫱 Reframe / 📣 Propaganda | 語らずに、時には大声で語る存在。生き様そのものが Story になることもあるが、それが Project として構成されるかどうかは別の話である。 |
 | **Scientist / Analyst**（科学者・分析官） | ☝️ Logic / 🥼 Science（特に 🤔 Prediction） | 構文の再現と予測可能性に価値を置き、Story を汎用化・モデル化することで社会的意味を持たせようとする。 |
 | **Customer / Reviewer**（消費者・観察者・批評家） | ☝️ Logic（観測された構造） | どの構文をどう受け取り、何を重視したかという選択そのものが、本人の Story を語ってしまう。受け手でありながら、構文化の鏡像でもある。 |
-| **Facilitator / Educator / Translator**（支援者・解釈者） | 📐 Design / ✂️ Curation / 🫱 Reframe | 自身の語りよりも、他者のStoryを整え・渡し直すことに責任を持つ役割。語りの通訳・再構成の担い手。教育・編集・翻訳など。 |
+| **Facilitator / Educator / Translator**（支援者・解釈者） | 📐 Design / ✂️ Curation / ☝️ Logic | 自身の語りよりも、他者のStoryを整え・渡し直すことに責任を持つ役割。語りの通訳・再構成の担い手。教育・編集・翻訳など。 |
 
 Latent Framework を実際に用いる際には、目的に応じて「語るべき構文要素」だけに絞ったテンプレートを用意することが望ましい。  
 たとえば、VTS（Visual Thinking Strategy）のような場面では、以下のように 3〜4要素に限定することで、観察の焦点が定まり、対話が深まりやすくなる。

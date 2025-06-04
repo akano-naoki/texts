@@ -530,7 +530,7 @@ Latent Framework は、構文的に Project を記述・観察・比較するた
 | **Engineer / Technologist**（技術者・職人） | 🧵 Craft / 📊 Verification | 語り手ではないが、語りの精度に深く関与する。再現可能性と整合性を手技によって担保する存在。 |
 | **Artist / Activist**（芸術家・活動家） | 👏 Blues / 📣 Propaganda / 🫱 Reframe | 語らずに、時には大声で語る存在。Story は存在するが、それを Project として他者に渡す構文を持たない場合も多い。 |
 | **Scientist / Analyst**（科学者・分析官） | ☝️ Logic / 🤔 Prediction | 構文の再現と予測可能性に価値を置き、Story を汎用化・モデル化することで社会的意味を持たせようとする。 |
-| **Worker / Transporter / Deliverer**（労働者・運送者・媒介者） | 📦 Flow / 🪏 Labor / 🏦 Loan | 社会という Project の土台を支える構文化の実働者。自ら語らず、構造を設計せずとも、他者の語りが現実に届くための回路を日々動かしている存在。。 |
+| **Worker / Transporter / Deliverer**（労働者・運送者・媒介者） | 📦 Flow / 🪏 Labor / 🏦 Loan | 社会という Project の土台を支える実働者。自ら語らず、構造を設計せずとも、他者の語りが現実に届くための回路を日々動かしている存在。 |
 | **Facilitator / Curator / Educator / Translator**（媒介者・整備者）| 📐 Design / 📣 Propaganda / 🔗 Control | 他者のStoryを整え、他の誰かに渡すための構文をつくる存在。教育・編集・翻訳など。 |
 | **Patron / Sponsor / Judge**（後援者・価値決定者）| 🪴 Sponsorship / 📣 Propaganda / 🪦 Norm | 語りの存続条件、選定基準、見せ方・通し方を支配・支援する存在。 |
 | **Customer / Reviewer**（消費者・観察者・批評家） | ☝️ Logic（観測された構造）/ 📈 Investment | どの構文をどう受け取り、何を重視したかという選択そのものが、本人の Story を語ってしまう。受け手でありながら、構文化の鏡像でもある。 |

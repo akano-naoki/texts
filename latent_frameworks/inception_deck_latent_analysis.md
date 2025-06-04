@@ -63,14 +63,14 @@ Latent Framework によってこれら10の質問を**構文化（＝語りの�
 
 ## 構文化の補助としての27要素テーブル（質問別マッピング）
 
-| 質問  | Story                            | Economy                         | Force                      |
+| 質問  | Story                           | Economy                         | Force                      |
 | --- | -------------------------------- | ------------------------------- | -------------------------- |
 | Q1  | ☝️ Logic / 👏 Blues              | -                               | -                          |
 | Q2  | ☝️ Logic / 👏 Blues / 🫱 Reframe | -                               | 📣 Propaganda              |
 | Q3  | 📐 Design / 👏 Blues             | -                               | -                          |
 | Q4  | 🫱 Reframe / 👏 Blues            | 💰 Capital                      | -                          |
-| Q5  | 全体横断：27要素マッピング                   | 全体                              | 全体                         |
-| Q6  | ☝️ Logic                         | 🧵 Craft                        | -                          |
+| Q5  | 全体横断：27要素マッピング           | 全体                             | 全体                        |
+| Q6  | ☝️ Logic / 🧵 Craft              | -                               | -                          |
 | Q7  | 🤔 Prediction                    | -                               | 🔗 Control / 📣 Propaganda |
 | Q8  | ☝️ Logic                         | 🪏 Labor / 💰 Capital           | -                          |
 | Q9  | 🫱 Reframe                       | 📈 Investment                   | 🔗 Control                 |

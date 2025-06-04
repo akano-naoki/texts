@@ -521,7 +521,6 @@ Latent Framework は、構文的に Project を記述・観察・比較するた
 | **President / Professor / Chief Director / Owner / Pope / Emperor**（代表・総監督・象徴） | ⛵ Project | Project の語りを象徴する立場。他者から構文化されることを許容する。Story の成立と受容の中心。他者にとっての参照点になるため、「自ら語らずともStoryが形成される存在」とも言える。 |
 | **Manager / Producer / Officer / Gallerist**（企画・制作・総括・配給） | 🌾 Economy / ⚔️ Force | 他者の語りに深入りせず、それを成立・維持・流通させるための構造と制度に責任を持つ。Project の外部接続と継続性の担保。 |
 | **Creator / Director**（監督・製作・作家） | ✨ Art / 📏 Measurement | 画家、小説家、音楽家、映画監督、伝統芸能継承者、プロダクトデザイナーなど。Story を設計・保全する構文化者であり、芸術作品、娯楽作品、制度、商品、サービス、パフォーマンスなどを通じて語りを社会に通す責任を担う。|
-Projectの構文設計を担う存在。 |
 | **Engineer / Technologist**（技術者・職人） | 🧵 Craft / 📊 Verification | 語り手ではないが、語りの精度に深く関与する。再現可能性と整合性を手技によって担保する存在。 |
 | **Scientist / Analyst**（科学者・分析官） | ☝️ Logic / 🤔 Prediction | 構文の再現と予測可能性に価値を置き、Story を汎用化・モデル化することで社会的意味を持たせようとする。 |
 | **Worker / Transporter / Deliverer**（労働者・運送者・媒介者） | 📦 Flow / 🪏 Labor / 🏦 Loan | 社会という Project の土台を支える実働者。自ら語らず、構造を設計せずとも、他者の語りが現実に届くための回路を日々動かしている存在。 |

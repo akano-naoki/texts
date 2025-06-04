@@ -528,9 +528,10 @@ Latent Framework は、構文的に Project を記述・観察・比較するた
 | **Project Manager / Producer / Officer / Gallerist**（企画・制作・総括・配給） | 🌾 Economy / ⚔️ Force | 他者の語りに深入りせず、それを成立・維持・流通させるための構造と制度に責任を持つ。Project の外部接続と継続性の担保。 |
 | **Creator / Director / Painter, Novelist etc**（監督・製作・作家） | ✨ Art（全て） / 🥼 Science（特に 📏 Measurement） | 自らの語りに責任を持ち、Craft を通じて他者に届く Story を設計し、かたちにする。|
 | **Engineer / Technologist**（技術者・職人） | 🧵 Craft（🤌Technique / 📐Design）/ 📊 Verification | 語り手ではないが、語りの精度に深く関与する。再現可能性と整合性を手技によって担保する存在。 |
-| **Artist / Activist**（芸術家・活動家） | 👏 Blues / 🫱 Reframe / 📣 Propaganda | 語らずに、時には大声で語る存在。生き様そのものが Story になることもあるが、それが Project として構成されるかどうかは別の話である。 |
+| **Artist / Activist**（芸術家・活動家） | 👏 Blues / 🫱 Reframe / 📣 Propaganda | 語らずに、時には大声で語る存在。Story は存在するが、それを Project として他者に渡す構文を持たない場合も多い。 |
 | **Scientist / Analyst**（科学者・分析官） | ☝️ Logic / 🥼 Science（特に 🤔 Prediction） | 構文の再現と予測可能性に価値を置き、Story を汎用化・モデル化することで社会的意味を持たせようとする。 |
-| **Facilitator / Educator / Translator / Curator**（支援者・解釈者） | 📐 Design / ✂️ Curation / 🔗 Control | 他者のStoryを整え、他の誰かに渡すための構文をつくる存在。教育・編集・翻訳など。 |
+| **Facilitator / Curator / Educator / Translator**（媒介者・整備者）| 📐 Design / 📣 Propaganda / 🔗 Control | 他者のStoryを整え、他の誰かに渡すための構文をつくる存在。教育・編集・翻訳など。 |
+| **Patron / Sponsor / Judge**（後援者・価値決定者）| 🌾 Economy / 📣 Propaganda / 🪦 Norm | 語りの存続条件、選定基準、見せ方・通し方を支配・支援する存在。 |
 | **Customer / Reviewer**（消費者・観察者・批評家） | ☝️ Logic（観測された構造） | どの構文をどう受け取り、何を重視したかという選択そのものが、本人の Story を語ってしまう。受け手でありながら、構文化の鏡像でもある。 |
 
 Latent Framework を実際に用いる際には、目的に応じて「語るべき構文要素」だけに絞ったテンプレートを用意することが望ましい。  

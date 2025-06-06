@@ -683,10 +683,10 @@ Project は“陳腐化せずに終わる”ことができる。
 
 | Project | 変更失敗の内容 | 構文化的失敗の様式 |
 |---------|----------------|---------------------|
-| ❌ **スター・ウォーズ 続三部作** | 📕 Story と 📐 Design の整合性が崩壊。Reframe を繰り返しすぎてProjectの中心が消失 | 語りをつなぐはずの構文化が分裂し、Projectの象徴性と共犯関係を断絶した |
-| ❌ **けものフレンズ** | 🔗 Control：語りの主語が排除され、外部Propagandaだけが残った | 再構文化が不可能な状態で語りが断絶。共犯者（ファン）が離反した |
-| ❌ **AKB48（アイドルグループ一般）** | 📣 Propaganda の過剰最適化と Custom 崩壊（恋愛禁止・交代制） | Story の一貫性が構文化できず、Projectの寿命が投票と炎上の連続になった |
-| ❌ **多くのネットミーム** | 🫱 Reframe の新鮮さが様式化し、Custom に昇華されなかった | 語りが使い捨てになり、Projectが意味として構文化される前に死んだ |
+| ❌ **スター・ウォーズ 続三部作** | 📕 Story と 📐 Design の整合性が崩壊。🫱 Reframe を繰り返しすぎて Project の中心が消失 | 語りをつなぐはずの構文化が分裂し、Project の象徴性と共犯関係を断絶した |
+| ❌ **けものフレンズ** | 🔗 Control：語りの主語が排除され、外部 📣 Propagandaだけが残った | 再構文化が不可能な状態で語りが断絶。共犯者（ファン）が離反した |
+| ❌ **AKB48（アイドルグループ一般）** | 📣 Propaganda の過剰最適化と 🙏 Custom 崩壊（恋愛禁止・交代制） | Story の一貫性が構文化できず、Projectの寿命が投票と炎上の連続になった |
+| ❌ **多くのネットミーム** | 🫱 Reframe の新鮮さが様式化し、🙏 Custom に昇華されなかった | 語りが使い捨てになり、Projectが意味として構文化される前に死んだ |
 
 #### 一般的な失敗パターン
 
@@ -712,15 +712,15 @@ Project を殺さず、語りのまま終わらせるには、構文化構文を
 | 立場 | 重視される構文 | コメント |
 |------|----------------|----------|
 | **President / Professor / Chief Director / Owner / Pope / Emperor**（代表・総監督・象徴） | ⛵ Project | Project の語りを象徴する立場。他者から構文化されることを許容する。Story の成立と受容の中心。他者にとっての参照点になるため、「自ら語らずともStoryが形成される存在」とも言える。 |
-| **Manager / Producer / Officer / Gallerist**（企画・制作・総括・配給） | 🌾 Economy / ⚔️ Force | 他者の語りに深入りせず、それを成立・維持・流通させるための構造と制度に責任を持つ。Project の外部接続と継続性の担保。 |
-| **Creator / Director**（監督・製作・作家） | ✨ Art / 📏 Measurement | 画家、小説家、音楽家、映画監督、伝統芸能継承者、プロダクトデザイナーなど。Story を設計・保全する構文化者であり、芸術作品、娯楽作品、制度、商品、サービス、パフォーマンスなどを通じて語りを社会に通す責任を担う。|
-| **Engineer / Technologist**（技術者・職人） | 🧵 Craft / 📊 Verification | 語り手ではないが、語りの精度に深く関与する。再現可能性と整合性を手技によって担保する存在。 |
-| **Scientist / Analyst**（科学者・分析官） | ☝️ Logic / 🤔 Prediction | 構文の再現と予測可能性に価値を置き、Story を汎用化・モデル化することで社会的意味を持たせようとする。 |
-| **Worker / Transporter / Deliverer**（労働者・運送者・媒介者） | 📦 Flow / 🪏 Labor / 🏦 Loan | 社会という Project の土台を支える実働者。自ら語らず、構造を設計せずとも、他者の語りが現実に届くための回路を日々動かしている存在。 |
-| **Facilitator / Curator / Educator / Translator**（媒介者・整備者）| 📐 Design / 📣 Propaganda / 🔗 Control | 他者のStoryを整え、他の誰かに渡すための構文をつくる存在。教育・編集・翻訳など。語りの流通と、その暴力性の制御に責任を持つ。時間（Cadence）設定を行うことも多い。 |
-| **Patron / Sponsor / Judge**（後援者・価値決定者）| 🪴 Sponsorship / 📣 Propaganda / 🪦 Norm | 語りの存続条件、選定基準、見せ方・通し方を支配・支援する存在。語った、語らせた語りの結果にも責任を持つ立場である。 |
-| **Artist / Activist / Outsider**（アーティスト・活動家・逸脱者） | 👏 Blues / 📣 Propaganda / 🫱 Reframe | 衝動的に語り、社会的可視性を操作する存在。だがしばしば Project としての構文化を拒み、または拒否される。Outsider は制度・評価・設計の枠組みの外で、語りが成立しないか、意味を持たないことすらある。 |
-| **Customer / Reviewer**（消費者・観察者・批評家） | ☝️ Logic（観測された構造）/ 📈 Investment | どの構文をどう受け取り、何を重視したかという選択そのものが、本人の Story を語ってしまう。受け手でありながら、構文化の鏡像でもある。 |
+| **Manager / Producer / Officer / Gallerist**（企画・制作・総括・配給） | 🌾 Economy<br>⚔️ Force | 他者の語りに深入りせず、それを成立・維持・流通させるための構造と制度に責任を持つ。Project の外部接続と継続性の担保。 |
+| **Creator / Director**（監督・製作・作家） | ✨ Art<br>📏 Measurement | 画家、小説家、音楽家、映画監督、伝統芸能継承者、プロダクトデザイナーなど。Story を設計・保全する構文化者であり、芸術作品、娯楽作品、制度、商品、サービス、パフォーマンスなどを通じて語りを社会に通す責任を担う。|
+| **Engineer / Technologist**（技術者・職人） | 🧵 Craft<br>📊 Verification | 語り手ではないが、語りの精度に深く関与する。再現可能性と整合性を手技によって担保する存在。 |
+| **Scientist / Analyst**（科学者・分析官） | ☝️ Logic<br>🤔 Prediction | 構文の再現と予測可能性に価値を置き、Story を汎用化・モデル化することで社会的意味を持たせようとする。 |
+| **Worker / Transporter / Deliverer**（労働者・運送者・媒介者） | 📦 Flow<br>🪏 Labor<br>🏦 Loan | 社会という Project の土台を支える実働者。自ら語らず、構造を設計せずとも、他者の語りが現実に届くための回路を日々動かしている存在。 |
+| **Facilitator / Curator / Educator / Translator**（媒介者・整備者）| 📐 Design<br>📣 Propaganda<br>🔗 Control | 他者のStoryを整え、他の誰かに渡すための構文をつくる存在。教育・編集・翻訳など。語りの流通と、その暴力性の制御に責任を持つ。時間（Cadence）設定を行うことも多い。 |
+| **Patron / Sponsor / Judge**（後援者・価値決定者）| 🪴 Sponsorship<br>📣 Propaganda<br>🪦 Norm | 語りの存続条件、選定基準、見せ方・通し方を支配・支援する存在。語った、語らせた語りの結果にも責任を持つ立場である。 |
+| **Artist / Activist / Outsider**（アーティスト・活動家・逸脱者） | 👏 Blues<br>📣 Propaganda<br>🫱 Reframe | 衝動的に語り、社会的可視性を操作する存在。だがしばしば Project としての構文化を拒み、または拒否される。Outsider は制度・評価・設計の枠組みの外で、語りが成立しないか、意味を持たないことすらある。 |
+| **Customer / Reviewer**（消費者・観察者・批評家） | ☝️ Logic<br>📈 Investment | どの構文をどう受け取り、何を重視したかという選択そのものが、本人の Story を語ってしまう。受け手でありながら、構文化の鏡像でもある。 |
 
 Latent Framework を実際に用いる際には、目的に応じて「語るべき構文要素」だけに絞ったテンプレートを用意することが望ましい。  
 たとえば、VTS（Visual Thinking Strategy）のような場面では、以下のように 3〜4要素に限定することで、観察の焦点が定まり、対話が深まりやすくなる。

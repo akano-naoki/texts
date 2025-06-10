@@ -718,7 +718,7 @@ Project を殺さず、語りのまま終わらせるには、構文化構文を
 | **Worker / Transporter / Deliverer**（労働者・運送者・媒介者） | 📦 Flow<br>🪏 Labor<br>🏦 Loan | 社会という Project の土台を支える実働者。自ら語らず、構造を設計せずとも、他者の語りが現実に届くための回路を日々動かしている存在。 |
 | **Facilitator / Curator / Educator / Translator**（媒介者・整備者）| 📐 Design<br>📣 Propaganda<br>🔗 Control | 他者のStoryを整え、他の誰かに渡すための構文をつくる存在。教育・編集・翻訳など。語りの流通と、その暴力性の制御に責任を持つ。時間（Cadence）設定を行うことも多い。 |
 | **Patron / Sponsor / Judge**（後援者・価値決定者）| 🪴 Sponsorship<br>📣 Propaganda<br>🪦 Norm | 語りの存続条件、選定基準、見せ方・通し方を支配・支援する存在。語った、語らせた語りの結果にも責任を持つ立場である。 |
-| **Artist / Activist / Outsider**（アーティスト・活動家・逸脱者） | 👏 Blues<br>📣 Propaganda<br>🫱 Reframe | 衝動的に語り、社会的可視性を操作する存在。だがしばしば Project としての構文化を拒み、または拒否される。Outsider は制度・評価・設計の枠組みの外で、語りが成立しないか、意味を持たないことすらある。 |
+| **Artist / Activist / Outsider**（アーティスト・活動家・逸脱者） | 👏 Blues<br>📣 Propaganda<br>🫱 Reframe | Blues（やりたい）が先行し、衝動的に語り、社会的可視性を操作する存在。だがしばしば Project としての構文化を拒み、または拒否される。Outsider は制度・評価・設計の枠組みの外で、語りが成立しないか、意味を持たないことすらある。 |
 | **Customer / Reviewer**（消費者・観察者・批評家） | ☝️ Logic<br>📈 Investment | どの構文をどう受け取り、何を重視したかという選択そのものが、本人の Story を語ってしまう。受け手でありながら、構文化の鏡像でもある。 |
 
 Latent Framework を実際に用いる際には、目的に応じて「語るべき構文要素」だけに絞ったテンプレートを用意することが望ましい。  

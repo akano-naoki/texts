@@ -1,4 +1,4 @@
-# 🔺 Attitudes Toward the Scale　理論  
+# 🔺 Attitudes Toward of Scale　理論  
 
 ### ―  Radical – Critical – Faithful 三層構造 ―
 

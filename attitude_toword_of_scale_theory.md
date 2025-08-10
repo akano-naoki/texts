@@ -1,4 +1,4 @@
-# 🔺 Epoch of Axiom　理論  
+# 🔺 Looping Theory of Axiom　理論
 
 ### ― Radical – Critical – Faithful 三態度構造 ―
 
@@ -101,7 +101,7 @@
 ## 5. Radical – Critical – Faithful の三態度
 
 ### 定義
-Axiom（絶対的前提）に対する向き合い方を三分類する。
+Axiom（絶対的前提）に対する向き合い方（Theory:持論）を三分類する。
 
 | 態度 | 定義 | 美術史的例 |
 |------|------|------------|
@@ -127,9 +127,9 @@ Axiom（絶対的前提）に対する向き合い方を三分類する。
 
 ## 6. 三層モデル
 
-Epoch（思想） ──▶ Latent（構造） ──▶ Product（作品）
+Theory（持論） ──▶ Latent（構造） ──▶ Product（作品）
 
-- **Epoch（思想）**：実行者が信じるAxiomへの態度
+- **Theory（持論）**：実行者が信じるAxiomへの態度
 - **Latent（構造）**：思想を実装するための構文（観測可能）  
 - **Product（作品）**：構造を通して社会に現れた成果。芸術作品、製品、制度など
 

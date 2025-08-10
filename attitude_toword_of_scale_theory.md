@@ -1,4 +1,4 @@
-# 🔺 Attitudes Toward of Axiom　理論  
+# 🔺 Epoch of Axiom　理論  
 
 ### ― Radical – Critical – Faithful 三態度構造 ―
 

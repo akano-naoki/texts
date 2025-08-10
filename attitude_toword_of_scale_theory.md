@@ -127,9 +127,9 @@ Axiom（絶対的前提）に対する向き合い方（Attitude:態度）を三
 
 ## 6. 三層モデル
 
-Attitude（持論） ──▶ Latent（構造） ──▶ Product（作品）
+Attitude（態度） ──▶ Latent（構造） ──▶ Product（作品）
 
-- **Attitude（持論）**：実行者が信じるAxiomへの態度
+- **Attitude（態度）**：実行者が信じるAxiomへの態度
 - **Latent（構造）**：思想を実装するための構文（観測可能）  
 - **Product（作品）**：構造を通して社会に現れた成果。芸術作品、製品、制度など
 

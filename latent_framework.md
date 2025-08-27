@@ -77,32 +77,6 @@ Economy（継続されるための構造）と Governance（維持されるた�
 したがって、本構文は Economy や Governance を中心には据えないが、それらを排除するものではない。  
 Story を持続させ、届かせるための補助構文として、軽視はするが、無視はしないという立場をとる。
 
-### 🗣️ 主体（Voice）と 🤝 コラボレーション（Step 0：初期化）
-
-定義：Project は「観測されたStory」であると同時に、**主体と権限の構成（誰の／誰と誰の）**で成り立つ。
-目的：語りの主語を固定し、責任と権限の回路を可視化する。
-
-#### 必須フィールド（VTP：Voice Tagging Protocol）
-
-1. UoA（分析単位）／Scope（範囲）
-1. VoR（Voice of Record）：Performer／Producer／Platform／Patron／Regulator／Observer など
-1. AoR（Authority of Record）：最終決定権（Final Cut）
-1. Collaboration：主要ペア/トリオ（A×B…）と役割
-1. Mode：E（事実）／I（解釈）／S（仮説）
-1. CCC（根拠の三点）：Credit（名義）／Contract（契約・権利）／Consequence（結果責任）※最低2点を確保
-
-#### 運用ルール
-* 1行＝1主語（VoRを混ぜない）
-* AoR（最終決定権）が空欄のVoiceはMode=Sで暫定扱い、次サイクルでEに昇格
-* Attribution Heatmap：27要素ごとに“主語混線度”を0/1/2で色分け
-
-#### コラボ適合（任意）
-
-主体ごとに L/R/B（％）と R/C/F（％）を記入し、
-* Δ_LRB＝|L_AA−L_B|+|R_A−R_B|+|B_A−B_B|
-* Δ_attitude＝|Rad_A−Rad_B|+|Crit_A−Crit_B|+|Faith_A−Faith_B|
-で摩擦を概算（Green/Yelllow/Redの三段階で判断指針）。
-
 ## 🧭 Latent Framework の構文構造
 
 まずは Project を 3つの構造に分解する。さらに、この構成要素を3つに分解し、さらにその構成要素を3つに分解する。

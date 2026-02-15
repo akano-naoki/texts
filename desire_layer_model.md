@@ -316,3 +316,65 @@ L13（規範・制度）は長期維持に必要だが、環境変化や制度�
 - したがって、美術の価値は「好き嫌い」だけでなく、社会が持つ更新能力としても評価できる
 
 ---
+
+## Appendix：影響を受けた思想・参考線（備忘）
+
+このモデルの設計に親和性が高い理論・思想・研究領域を、振り返り用に簡潔メモ＋Wikipediaリンク付きで列記します。美術制作だけでなく、プロダクト/プロジェクトマネジメント、開発指針、MVV、制度設計、広報、美術品販売の観点で参照できるよう分類しています。
+
+### A. 生体・制御・予測（誤差最小化の基盤）
+- ホメオスタシス（Homeostasis）: 生体が目標域を保つ負帰還の基本概念。Wikipedia: https://en.wikipedia.org/wiki/Homeostasis
+- アロスタシス（Allostasis）: 予測的に安定性を維持する調整の枠組み。Wikipedia: https://en.wikipedia.org/wiki/Allostasis
+- サイバネティクス（Cybernetics）: 目標・フィードバック・制御の一般理論。Wikipedia: https://en.wikipedia.org/wiki/Cybernetics
+- 知覚制御理論（Perceptual Control Theory）: 行動を誤差最小化として捉える階層制御。Wikipedia: https://en.wikipedia.org/wiki/Perceptual_control_theory
+- 予測処理／予測符号化（Predictive processing / coding）: 脳を階層的予測器とみなす。Wikipedia: https://en.wikipedia.org/wiki/Predictive_coding
+- アクティブ・インファレンス（Active inference）: 行為と信念更新で自由エネルギーを最小化。Wikipedia: https://en.wikipedia.org/wiki/Active_inference
+- 強化学習（Reinforcement learning）: 価値と方策の学習ダイナミクス。Wikipedia: https://en.wikipedia.org/wiki/Reinforcement_learning
+- 報酬予測誤差（Reward prediction error）: ドーパミン系の誤差信号。Wikipedia: https://en.wikipedia.org/wiki/Reward_prediction_error
+- 内受容感覚（Interoception）: 体内状態の感覚と情動の基盤。Wikipedia: https://en.wikipedia.org/wiki/Interoception
+- 構成主義的情動理論（Theory of constructed emotion）: 情動は予測と概念で構成される。Wikipedia: https://en.wikipedia.org/wiki/Theory_of_constructed_emotion
+
+### B. 神経・情動・ネットワーク（レイヤー対応の手掛かり）
+- 扁桃体（Amygdala）: 脅威評価と情動調整の要。Wikipedia: https://en.wikipedia.org/wiki/Amygdala
+- 中脳水道周囲灰白質（Periaqueductal gray）: 防御・痛み・生存回路の要。Wikipedia: https://en.wikipedia.org/wiki/Periaqueductal_gray
+- 既定モード・ネットワーク（Default mode network）: 自己・物語・内省の基盤ネットワーク。Wikipedia: https://en.wikipedia.org/wiki/Default_mode_network
+
+### C. 社会・制度・文化（I→Weの橋渡し）
+- 愛着理論（Attachment theory）: 長期関係維持の神経・行動基盤。Wikipedia: https://en.wikipedia.org/wiki/Attachment_theory
+- 心の理論（Theory of mind）: 他者の心的状態の推定。Wikipedia: https://en.wikipedia.org/wiki/Theory_of_mind
+- 拡張された心（The Extended Mind）: 道具・記録・環境を心の一部として扱う。Wikipedia: https://en.wikipedia.org/wiki/Extended_mind
+- 分散認知（Distributed cognition）: 認知が集団・道具に分布する視点。Wikipedia: https://en.wikipedia.org/wiki/Distributed_cognition
+- 文化進化（Cultural evolution）: 規範・技術・物語の世代伝達と適応。Wikipedia: https://en.wikipedia.org/wiki/Cultural_evolution
+- ドゥグラス・ノース（制度と取引コスト）: 制度が経済成果を形づくる。Wikipedia: https://en.wikipedia.org/wiki/Douglass_North
+- オストロムと共用資源（Elinor Ostrom / Common-pool resource）: 自律的ガバナンスの設計原則。Wikipedia: https://en.wikipedia.org/wiki/Elinor_Ostrom / https://en.wikipedia.org/wiki/Common-pool_resource
+- デュルケム（集合的沸騰）: 儀礼・連帯の機能。Wikipedia: https://en.wikipedia.org/wiki/Collective_effervescence
+- クリフォード・ギアツ（厚い記述）: 文脈化された意味の解釈。Wikipedia: https://en.wikipedia.org/wiki/Thick_description
+- ブルデュー（文化資本・場）: 権威・趣味・場の力学。Wikipedia: https://en.wikipedia.org/wiki/Pierre_Bourdieu / https://en.wikipedia.org/wiki/Cultural_capital
+- 社会的アイデンティティ理論（Social identity theory）: 所属と内外集団バイアス。Wikipedia: https://en.wikipedia.org/wiki/Social_identity_theory
+- シグナリング理論（Signalling theory）: 高コスト信号と正統性。Wikipedia: https://en.wikipedia.org/wiki/Signalling_theory
+
+### D. 経済・更新・拡散（L13↔L14のダイナミクス）
+- 創造的破壊（Creative destruction）: 産業・枠組みの更新ダイナミクス。Wikipedia: https://en.wikipedia.org/wiki/Creative_destruction
+- パラダイム転換（Paradigm shift）: 理論枠の交替と正常科学。Wikipedia: https://en.wikipedia.org/wiki/Paradigm_shift
+- イノベーションの普及（Diffusion of innovations）: 伝播曲線と採用者カテゴリー。Wikipedia: https://en.wikipedia.org/wiki/Diffusion_of_innovations
+
+### E. 設計・複雑系・階層（アーキテクチャの比喩）
+- 必要多様性の法則（Requisite variety）: 制御に必要な多様性の条件。Wikipedia: https://en.wikipedia.org/wiki/Requisite_variety
+- 一般システム理論（General systems theory）: 階層・境界・相互依存の基礎。Wikipedia: https://en.wikipedia.org/wiki/General_systems_theory
+- レジリエンス（Resilience, ecology）: システムの回復力と可動域。Wikipedia: https://en.wikipedia.org/wiki/Resilience_(ecology)
+- アンチフラジャイル（Antifragility）: 変動で強くなる設計原則。Wikipedia: https://en.wikipedia.org/wiki/Antifragility
+- サイモンの階層性（Herbert A. Simon）: 近似分解・モジュール化の原理。Wikipedia: https://en.wikipedia.org/wiki/Herbert_A._Simon
+- OSI参照モデル（OSI model）: 階層化とインタフェースの設計比喩。Wikipedia: https://en.wikipedia.org/wiki/OSI_model
+
+### F. 美術・メディア・制度（L12/L13/L14の足場）
+- 制度的芸術理論（Institutional theory of art）: 美術は制度的文脈で定義される。Wikipedia: https://en.wikipedia.org/wiki/Institutional_theory_of_art
+- コンセプチュアル・アート（Conceptual art）: 形式より概念・規則が核。Wikipedia: https://en.wikipedia.org/wiki/Conceptual_art
+- マクルーハン（Marshall McLuhan / メディア論）: メディアがメッセージを形成する。Wikipedia: https://en.wikipedia.org/wiki/Marshall_McLuhan
+
+#### 使い方のメモ（用途への写像）
+- 美術制作: L7→L12のブリッジ設計、L13整合、L14の更新度評価に各項目を参照。
+- プロダクト/プロジェクトマネジメント: 予測処理・強化学習・必要多様性・レジリエンスをKPI/設計制約に反映。
+- 開発指針/アーキテクチャ: OSI比喩・サイモンの階層性・一般システム理論で境界と依存を整理。
+- MVV制定: 文化進化・シグナリング・社会的アイデンティティで「通る言葉」と儀礼を設計。
+- 社会制度/政党支持: オストロム・ノース・デュルケムでガバナンス/規範/連帯を評価・設計。
+- 広報戦略: 予測処理×拡張心×普及理論でメッセージ波形と媒体を最適化。
+- 美術品販売: ブルデュー/制度的芸術理論で正統性の足場を可視化、拡散は普及理論とシグナリングで。
